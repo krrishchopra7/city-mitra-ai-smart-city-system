@@ -1,0 +1,7 @@
+{
+  "description": "City Mitra AI - Smart City Complaint Management System with NLP and Vision analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "App"
+}
